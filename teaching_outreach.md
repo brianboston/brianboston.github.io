@@ -4,7 +4,7 @@ title: Teaching
 feature_image: "https://brianboston.github.io/images/Falkor_2014-04-03_13-38-38_IMG_3063_Pearl_and_Hermes.jpg"
 ---
 
-{% include figure.html image="https://brianboston.github.io/images/IMG_3054.JPG" caption="Photo by R.Hackney" position="right" width="400" height="400" %}
+{% include figure.html image="https://brianboston.github.io/images/IMG_3054.JPG" caption="Photo by R. Hackney" position="right" width="400" height="400" %}
 
 ##### Guest Lecturer in:
 * Physics of the Earth and Planets
