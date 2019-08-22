@@ -14,7 +14,7 @@ I use marine geophysics to study how the Earth's tectonic plates form, bend, bre
 Rifted continental margins are one of the longest tectonic features on Earth, with the process of continental breakup being fundamental to plate tectonics and the formation of new ocean basins.
 
 ##### Zealandia
-{% include figure.html image="https://brianboston.github.io/images/DSCN1053.JPG" caption="Picking up an OBS over Zealandia" position="left" width="300" height="600" %}
+{% include figure.html image="https://brianboston.github.io/images/DSCN1053.jpg" caption="Picking up an OBS over Zealandia" position="left" width="300" height="600" %}
 
 Zealandia, located in the SW Pacific, is sometimes called the "Hidden Continent" since ~94% of it is submerged beneath the ocean. During Cretaceous, eastern Gondwana started continental rifting and breakup to separate northern Zealandia from eastern Australia. Due to this remote location, little work has been done to understand the structure and breakup of the margin. I sailed on the R/V _Kairei_ as part of a multi-leg survey to collect seismic reflection data and wide-angle seismic data to study this unique continental endmember.
 
