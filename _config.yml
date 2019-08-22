@@ -1,0 +1,51 @@
+
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://brianboston.github.io/'
+baseurl: ''
+author: Brian Boston
+title: 'Boston Geoscience'
+description: 'Boston Website'
+permalink: pretty
+logo: "https://brianboston.github.io/images/P1012160_2.JPG"
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Research
+  url: /research/
+- title: Teaching/Outreach
+  url: /teaching_outreach/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: #top
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  email: mailto:brianb@ldeo.columbia.edu
+  google-scholar: https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao
+  orcid: https://orcid.org/0000-0002-0647-4018
+  researchgate: https://www.researchgate.net/profile/Brian_Boston
+
+# Analytics
+google_analytics: UA-146136620-1
