@@ -2,7 +2,7 @@
 title: About me
 layout: page
 aside: true
-feature_image: "https://brianboston.github.io/images/P1011678.JPG"
+feature_image: "https://brianboston.github.io/images/P1011678.jpg"
 feature_text: |
   # <font color="#F5FFFA">Brian Boston</font>
 ---
