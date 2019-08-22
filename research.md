@@ -16,7 +16,7 @@ Rifted continental margins are one of the longest tectonic features on Earth, wi
 ##### Zealandia
 {% include figure.html image="https://brianboston.github.io/images/DSCN1053.jpg" caption="Picking up an OBS over Zealandia" position="left" width="300" height="600" %}
 
-Zealandia, located in the SW Pacific, is sometimes called the "Hidden Continent" since ~94% of it is submerged beneath the ocean. During Cretaceous, eastern Gondwana started continental rifting and breakup to separate northern Zealandia from eastern Australia. Due to this remote location, little work has been done to understand the structure and breakup of the margin. I sailed on the R/V _Kairei_ as part of a multi-leg survey to collect seismic reflection data and wide-angle seismic data to study this unique continental endmember.
+Located in the SW Pacific, Zealandia has been refered to as the "Hidden Continent" since ~94% of it is submerged beneath the ocean. During Cretaceous, eastern Gondwana started continental rifting and breakup to separate northern Zealandia from eastern Australia. Due to this remote location, little work has been done to understand the structure and breakup of the margin. I sailed on the R/V _Kairei_ as part of a multi-leg survey to collect seismic reflection data and wide-angle seismic data to study this unique continental endmember.
 
 * **Boston, B.** et al., (2019) Delayed subsidence after rifting and a record of breakup for northwestern Zealandia. [link](http://dx.doi.org/10.1029/2018JB016799 "link")
 * Gallais, F., Fujie G., **Boston, B.** et al., (2019) Crustal structure across the Lord Howe Rise, northern Zealandia, and rifting of the eastern Gondwana margin. [link](http://dx.doi.org/10.1029/2018JB016798 "link")
