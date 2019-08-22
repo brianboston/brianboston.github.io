@@ -5,7 +5,7 @@ feature_image: "https://brianboston.github.io/images/prism.png"
 ---
 {% include figure.html image="https://brianboston.github.io/images/Past_Expeditions.png" position="right" width="330" height="800" %}
 
-I use marine geophysics to study how the Earth's tectonic plates form, bend, break, subside, and slide past each other. I'm interested in the large-scale processes that shape the Earth's crust and upper mantle, and how these processes affect people, leding much of my research to focus on the complex interactions that occur at plate boundaries. I mainly focus on acquiring, processing, and interpreting seismic reflection data but will utilize a variety of geophysical techniques to further increase our understanding of the tectonic setting. 
+I use marine geophysics to study how the Earth's tectonic plates form, bend, break, subside, and slide past each other. I'm interested in the large-scale processes that shape the Earth's crust and upper mantle, and how these processes affect people, leading much of my research to focus on the complex interactions that occur at plate boundaries. I mainly focus on acquiring, processing, and interpreting seismic reflection data but will utilize a variety of geophysical techniques to further increase our understanding of the tectonic setting. 
 
 
 
