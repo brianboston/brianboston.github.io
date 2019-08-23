@@ -34,7 +34,7 @@ A previous sonar cruise on the Hawaiian Ridge up to just NW of Kure and Midway A
 ## Subduction Zones
 {% include figure.html image="https://brianboston.github.io/images/Animation00356.jpg" position="left" width="800" height="800" %}
 
-These regions where plates collide produce some of the largest earthquakes, create huge tsunamis, and contained highly deformed belts of rock. My work on subduction zones has covered a range of settings, from the incoming plate to the inner accretionary prism and overlying forearc basin.
+These regions where plates collide produce some of the largest earthquakes, create huge tsunamis, and contain highly deformed belts of rock. My work on subduction zones has covered a range of settings, from the incoming plate to the inner accretionary prism and overlying forearc basin.
 ##### Japan Trench
 The great 2011 Mw 9.0 Tohoku-oki earthquake at the Japan Trench produced huge co-seismic slip and created the tsunami that devastated much of northeast Japan. I sailed on a rapid-response cruise led by JAMSTEC soon after the earthquake to collect seismic data along this margin.
 
