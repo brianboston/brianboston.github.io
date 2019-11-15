@@ -7,6 +7,7 @@ feature_image: "https://brianboston.github.io/images/Falkor_2014-04-03_13-38-38_
 {% include figure.html image="https://brianboston.github.io/images/IMG_3054.JPG" caption="Photo by R. Hackney" position="right" width="400" height="400" %}
 
 ##### Guest Lecturer in:
+* Plate Tectonics
 * Physics of the Earth and Planets
 * Geophysical Methods
 * Well Logging for Earth Scientists
