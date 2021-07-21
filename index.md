@@ -15,9 +15,9 @@ My research is focused on using geophysical methods to study tectonics, volcanis
 #### Professional Experience
 Lamont-Doherty Earth Observatory of Columbia University &nbsp;(2019-Present)
 <br/>
-&nbsp;&nbsp; _Associate Research Scientist_
+&nbsp;&nbsp; _Associate Research Scientist_ (2021-Present)
 <br/>
-&nbsp;&nbsp; _Postdoctoral Research Scientist_
+&nbsp;&nbsp; _Postdoctoral Research Scientist_ (2019-2021)
 
 Japan Agency for Marine-Earth Science and Technology  &nbsp; (2016-2019)
 <br/>
