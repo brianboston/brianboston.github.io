@@ -43,7 +43,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   email: mailto:brianb@ldeo.columbia.edu
-  google-scholar: https://scholar.google.com/citations?user=BlvnMOgAAAAJ&hl=en&oi=ao
+  google-scholar: https://scholar.google.com/citations?user=3bI9pNkAAAAJ&hl=en&oi=ao
   orcid: https://orcid.org/0000-0002-0647-4018
   researchgate: https://www.researchgate.net/profile/Brian_Boston
 
