@@ -6,7 +6,7 @@ feature_image: "https://brianboston.github.io/images/P1011678.jpg"
 feature_text: |
   # <font color="#F5FFFA">Brian Boston</font>
 ---
-{% include figure.html image="https://brianboston.github.io/images/IMG_20190418_233131_crop.jpeg" position="right" width="400" height="800" %}
+{% include figure.html image="https://brianboston.github.io/images/IMG_4722.jpg" position="right" width="400" height="800" %}
 
 My research is focused on using geophysical methods to study tectonics, volcanism, basin systems, and geologic hazards. I utilize active-source seismology along with other geophysical and geological data to investigate deformation at subduction zones and continental rifted margins.
 

@@ -13,9 +13,9 @@ I use marine geophysics to study how the Earth's tectonic plates form, bend, bre
 
 Starting at the Big Island of Hawaii and extending to the Aleutian Trench, the Hawaiian-Emperor Seamount Chain is a classic example of a hotspot seamount chain. Check out our [blog](https://hawaiiemperor.blogspot.com "blog") for information on a recent seismic cruise series using R/V _Marcus G. Langseth_ and click below for some initial publications.
 
-* Watts, A. B., Grevemeyer, I., Shillington, D. J., Dunn, R., **Boston, B.**, Peña, L. G., 2021. Seismic structure, Gravity anomalies and Flexure along the Emperor Seamount chain. [link](http://dx.doi.org/10.1029/2020JB021109 "link")
-
-* Watts, A. B., Tozer, B., Harper, H., **Boston, B.**, Shillington, D.J., Dunn, R., 2020. Evaluation of shipboard and satellite-derived bathymetry and gravity data over seamounts in the northwest Pacific Ocean. [link](http://dx.doi.org/10.1029/2020JB020396 "link")
+* Xu, C., et al., (2022). A seismic tomography, gravity, and flexure study of the crust and upper mantle structure of the Emperor Seamounts at Jimmu guyot. [link](https://doi.org/10.1029/2021JB023241 "link")
+* Watts, A. B., Grevemeyer, I., Shillington, D. J., Dunn, R., **Boston, B.**, Peña, L. G., (2021). Seismic structure, Gravity anomalies and Flexure along the Emperor Seamount chain. [link](http://dx.doi.org/10.1029/2020JB021109 "link")
+* Watts, A. B., Tozer, B., Harper, H., **Boston, B.**, Shillington, D.J., Dunn, R., (2020). Evaluation of shipboard and satellite-derived bathymetry and gravity data over seamounts in the northwest Pacific Ocean. [link](http://dx.doi.org/10.1029/2020JB020396 "link")
 
 A previous sonar cruise on the Hawaiian Ridge up to just NW of Kure and Midway Atolls mapped 19 seamounts and discovered deep guyots, likely old preexisting Cretaceous seamounts, intertwined with ones from the Hawaiian Chain.
 
@@ -28,6 +28,12 @@ These regions where plates collide produce some of the largest earthquakes, crea
 
 ##### Cascadia
 Located in the backyard of the Pacific Northwest, the Cascadia subduction zone is one of the greatest geologic hazards for the US, with earthquakes reaching up to Mw 9.0. During the Cascadia Seismic Imaging Experiement 2021 (CASIE21), we imaged along the whole margin to better understand the earthquake and tsunami hazards throughout this region. Check out our our [website](https://casie21.weebly.com "website") or [blog](https://news.climate.columbia.edu/features/illuminating-the-cascadia-subduction-zone/ "blog") to learn more about how and why we collected the data, or see what others are saying about the [research cruise](https://www.sciencemag.org/news/2021/06/megaquake-will-someday-strike-pacific-northwest-ship-could-figure-out-how-bad-it-will "research cruise"). Stay tuned for research coming out!
+
+##### Middle America Trench
+At the Middle America Trench, the Cocos oceanic plate slides underneath the North American plate, regularly producing large and devastating earthquakes. The Guerrero seismic gap is one of the few areas along this subduction zone that has not experienced any large earthquakes in the last 100 years. In 2022, we collected a large suite of geophysical measurements including seismic reflection and wide-angle seismic relfection/refraction data. To learn more check out our [blog](https://news.climate.columbia.edu/features/scrutinizing-the-habitat-of-slow-earthquakes-in-the-guerrero-gap/ "blog") and look out for future results.
+
+Some past research in this region includes:
+* Edwards, J. H., et al., (2021). In-situ mass balance estimates offshore Costa Rica. [link](https://doi.org/10.1029/2020GC009190"link")
 
 ##### Japan Trench
 The great 2011 Mw 9.0 Tohoku-oki earthquake at the Japan Trench produced huge co-seismic slip and created the tsunami that devastated much of northeast Japan. I sailed on a rapid-response cruise led by JAMSTEC soon after the earthquake to collect seismic data along this margin.
