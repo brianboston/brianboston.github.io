@@ -33,7 +33,7 @@ Located in the backyard of the Pacific Northwest, the Cascadia subduction zone i
 At the Middle America Trench, the Cocos oceanic plate slides underneath the North American plate, regularly producing large and devastating earthquakes. The Guerrero seismic gap is one of the few areas along this subduction zone that has not experienced any large earthquakes in the last 100 years. In 2022, we collected a large suite of geophysical measurements including seismic reflection and wide-angle seismic relfection/refraction data. To learn more check out our [blog](https://news.climate.columbia.edu/features/scrutinizing-the-habitat-of-slow-earthquakes-in-the-guerrero-gap/ "blog") and look out for future results.
 
 Some past research in this region includes:
-* Edwards, J. H., et al., (2021). In-situ mass balance estimates offshore Costa Rica. [link](https://doi.org/10.1029/2020GC009190"link")
+* Edwards, J. H., et al., (2021). In-situ mass balance estimates offshore Costa Rica. [link](https://doi.org/10.1029/2020GC009190 "link")
 
 ##### Japan Trench
 The great 2011 Mw 9.0 Tohoku-oki earthquake at the Japan Trench produced huge co-seismic slip and created the tsunami that devastated much of northeast Japan. I sailed on a rapid-response cruise led by JAMSTEC soon after the earthquake to collect seismic data along this margin.
