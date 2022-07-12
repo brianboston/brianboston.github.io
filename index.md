@@ -8,7 +8,7 @@ feature_text: |
 ---
 {% include figure.html image="https://brianboston.github.io/images/IMG_4722.jpg" position="right" width="400" height="800" %}
 
-My research is focused on using geophysical methods to study tectonics, volcanism, basin systems, and geologic hazards. I utilize active-source seismology along with other geophysical and geological data to investigate deformation at subduction zones and continental rifted margins.
+My research is focused on using geophysical methods to study tectonics, volcanism, basin systems, and geologic hazards. I utilize controlled-source seismology along with other geophysical and geological data to investigate deformation at subduction zones and continental rifted margins.
 
 I will moving to Auburn University this fall 2022 as an Assistant Professor in the Department of Geosciences. If you're interested in working with me as a graduate student (MS/PhD) or postdoctoral researcher, feel free to reach out to me by email to discuss future opportunities.
 
