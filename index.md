@@ -16,6 +16,7 @@ My research is focused on using geophysical methods to study tectonics, volcanis
 Auburn University &nbsp;(2022-Present)
 <br/>
 &nbsp;&nbsp; _Assistant Professor_
+<br/>
 Lamont-Doherty Earth Observatory of Columbia University &nbsp;(2019-2022)
 <br/>
 &nbsp;&nbsp; _Associate Research Scientist_ (2021-2022)
